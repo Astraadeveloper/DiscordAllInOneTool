@@ -7,7 +7,9 @@
 
  [Discord] - ATIO is a Script Gathering for Windows/Linux systems written in Python.
 
+
  Disclaimer
+
 
  ATIO was made for Educational purposes
  This project was created only for good purposes and personal use.
@@ -38,6 +40,7 @@
  - WebHooks Remover - Delete any WebHooks link.
 
 
+
 How To Install
 1st・Installation (Automated installation)
 Launch the setup.bat file. A new file will be created. You will only have to launch it.
@@ -49,14 +52,17 @@ Additional Informations
 General Informations:
  
 
+
 If you have a problem, CLICK HERE to watch the YouTube video.
 Find your output files in the output folder.
 If you find any malfunction, contact me on Discord: Astraa#6100.
 Script Informations:
 
 
+
 For the operation of the RAT Tool, please refer to the creator's page.
 Example
+
 
 
 ![image](https://user-images.githubusercontent.com/125895759/220136462-f28dbf6c-eca5-45f1-8b28-cb7e134fe99a.png)
@@ -64,9 +70,12 @@ Example
 
 
 
+
 Errors/Fixes
 pyinstaller is not recognized as an external command
 
+
 open a cmd and type pip install pyinstaller or make sure python is added to PATH
+
 
 You probably have python 3.10 which has some new shit so downgrade to python 3.9
