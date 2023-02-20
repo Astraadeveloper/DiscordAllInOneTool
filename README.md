@@ -1,8 +1,8 @@
 
 
                                                                    
-                                                                   [Discord] - ATIO (V1.1.8)
-                                                                        Astraadeveloper
+                                                                [Discord] - ATIO (V1.1.8)
+                                                                     Astraadeveloper
 
 
  [Discord] - ATIO is a Script Gathering for Windows/Linux systems written in Python.
@@ -51,7 +51,7 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 
 2nd・Installation (Manual installation)
 
-$ git clone https://github.com/AstraaDev/Discord-All-Tools-In-One.git
+$ git clone (https://github.com/Astraadeveloper/DiscordAllInOneTool.git)
 $ python -m pip install -r requirements.txt
 $ python3 atio.py
 Additional Informations
