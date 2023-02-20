@@ -42,9 +42,15 @@
 
 
 How To Install
+
+
 1st・Installation (Automated installation)
+
 Launch the setup.bat file. A new file will be created. You will only have to launch it.
+
+
 2nd・Installation (Manual installation)
+
 $ git clone https://github.com/AstraaDev/Discord-All-Tools-In-One.git
 $ python -m pip install -r requirements.txt
 $ python3 atio.py
