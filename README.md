@@ -36,6 +36,8 @@
  - Nitro Generator - Generates and tests a Nitro code. If it works, you will be notified.
  - WebHooks Spammer - Spam the message you want through a WebHooks.
  - WebHooks Remover - Delete any WebHooks link.
+
+
 How To Install
 1st・Installation (Automated installation)
 Launch the setup.bat file. A new file will be created. You will only have to launch it.
@@ -45,11 +47,13 @@ $ python -m pip install -r requirements.txt
 $ python3 atio.py
 Additional Informations
 General Informations:
+ 
 
 If you have a problem, CLICK HERE to watch the YouTube video.
 Find your output files in the output folder.
 If you find any malfunction, contact me on Discord: Astraa#6100.
 Script Informations:
+
 
 For the operation of the RAT Tool, please refer to the creator's page.
 Example
