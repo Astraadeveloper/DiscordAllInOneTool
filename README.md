@@ -1,9 +1,9 @@
 
 
-[Discord] - ATIO (V1.1.8)
-    
+                                                                   
+                                                                   [Discord] - ATIO (V1.1.8)
+                                                                        Astraadeveloper
 
-astraadev
 
 [Discord] - ATIO is a Script Gathering for Windows/Linux systems written in Python.
 
